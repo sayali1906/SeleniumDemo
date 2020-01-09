@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2029" started-at="2020-01-09T14:19:50 IST" finished-at="2020-01-09T14:19:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2029" started-at="2020-01-09T14:19:50 IST" finished-at="2020-01-09T14:19:52 IST">
+      <class name="Testdatap">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:Testdatap@6b09bb57]" name="test" duration-ms="31" started-at="2020-01-09T14:19:52 IST" data-provider="CreateUser" finished-at="2020-01-09T14:19:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sneha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amol]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:Testdatap@6b09bb57]" name="test" duration-ms="0" started-at="2020-01-09T14:19:52 IST" data-provider="CreateUser" finished-at="2020-01-09T14:19:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sayali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ranbir]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Testdatap -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
